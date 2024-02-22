@@ -1,6 +1,7 @@
-
+<html>
 <ul>
     <li>mango</li>
     <li>banana</li>
     <li>apple</li>
     </ul>
+</html>
